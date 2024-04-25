@@ -1,12 +1,12 @@
 
-# Cancer Care Timeline - Analyzing each patients tempopral pathway through their cancer treatment and survivorship.
-Analyzing each patients tempopral pathway through their cancer treatment and survivorship.
+# Cancer Care Timeline - Analyzing each patients temporal pathway through their cancer treatment and survivorship.
+Analyzing each patients temporal pathway through their cancer treatment and survivorship.
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Cancer Care Timeline** - an example for your projects
 
-Analyzing each patients tempopral pathway through their cancer treatment and survivorship.
+Analyzing each patients temporal pathway through their cancer treatment and survivorship.
 
 ![Image image_filename](sample.png)
 
