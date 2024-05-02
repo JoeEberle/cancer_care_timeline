@@ -1,0 +1,14 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-05-02 09:07:19,412 - INFO - START cancer_care_timeline =============================================
+2024-05-02 09:07:19,412 - INFO - START cancer_care_timeline Start Time = 2024-05-02 09:07:19
+2024-05-02 09:07:19,412 - INFO - cancer_care_timeline Step 0 - Initialize the configuration file parser
+2024-05-02 09:07:19,413 - INFO - Process cancer_care_timeline Step 0 - Initializing and starting Logging Process.
+2024-05-02 09:07:59,501 - INFO - PERFORMANCE cancer_care_timeline The total process duration was:40.09
+2024-05-02 09:07:59,501 - INFO - PERFORMANCE cancer_care_timeline Stop Time = 2024-05-02 09:07:59
+2024-05-02 09:07:59,511 - INFO - PERFORMANCE cancer_care_timeline Low process duration less than 3 minutes:40.09
+2024-05-02 09:07:59,511 - INFO - PERFORMANCE cancer_care_timeline Performance optimization is optional
+2024-05-02 09:07:59,511 - INFO - END cancer_care_timeline =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
