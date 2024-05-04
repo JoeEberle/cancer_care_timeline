@@ -38,4 +38,4 @@ To get started with the **Cancer Care Timeline** solution repository, follow the
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](cancer_care_timeline.png)  <br>
+    ## Deliverables or Figures![additional_image](cancer_care_timeline.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
