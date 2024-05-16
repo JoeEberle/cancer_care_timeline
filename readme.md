@@ -10,6 +10,29 @@ Analyzing each patients temporal pathway through their cancer treatment and surv
 
 **Survival time analysis**, also known as survival analysis or time-to-event analysis, is a statistical method used to analyze the time until an event of interest occurs, such as death, disease recurrence, or treatment failure. In healthcare, survival time analysis is a valuable tool for understanding the prognosis of patients, evaluating the effectiveness of treatments, and identifying factors that influence patient outcomes. By accounting for censored data and modeling time-dependent variables, survival time analysis provides insights into the natural history of diseases, aiding clinicians in making informed decisions about patient care and treatment strategies.
 
+ ## Cancer Treatment Timelines 
+ 1. **T1** - De novo Cancer Diagnosis 
+  2. **T2** - Time from T1 to Pathology 
+  3. **T3** - Time from T1 to Biopsy 
+  4. **T4** - Time from T1 to Cancer Screening 
+  5. **T5** - Time from T1 to Genomic Assay 
+  6. **T6** - Time from T1 to Oncology Referral 
+  7. **T7** - Time from T1 to Care Plan 
+  8. **T8** - Time from T1 to First Line Modality Treatment 
+  9. **T9** - Time from T1 to First Therapeutic Response 
+  10. **T10** - Time from T1 to Second Modality Treatment 
+  11. **T11** - Time from T1 to First Therapeutic Switch 
+  12. **T12** - Time from T1 to Remission 
+  13. **T13** - Time from T1 to Cure 
+  14. **T14** - Time from T1 to Death 
+  15. **T15** - Time from T1 to Palliation / Hospice 
+  16. **T16** - Time from T1 to Active Surveillance / Maintenance 
+  17. **T17** - Time from T1 to Neo - Adjuvant Treatment 
+  18. **T18** - Time from T1 to Adjuvant Treatment 
+  19. **T19** - Time from T1 to Inpatient Hospitalization 
+  20. **T20** - Time from T1 to ED / Urgent Care Event 
+ <br>
+
 ![Image image_filename](sample.png)
 
 ## Getting Started
