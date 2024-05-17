@@ -59,7 +59,7 @@ To get started with the **Cancer Care Timeline** solution repository, follow the
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](cancer_care_timeline.png)  <br>
+ ![additional_image](cancer_care_journey.png)  <br>![additional_image](cancer_care_timeline.png)  <br>
     
 
 ## Github    
