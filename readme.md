@@ -64,7 +64,6 @@ To get started with the **Cancer Care Timeline** solution repository, follow the
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
-- **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
     
 ## Deliverables or Figures
  ![additional_image](cancer_care_journey.png)  <br>![additional_image](cancer_care_timeline.png)  <br>
