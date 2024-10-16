@@ -69,11 +69,8 @@ To get started with the **Cancer Care Timeline** solution repository, follow the
  ![additional_image](cancer_care_journey.png)  <br>![additional_image](cancer_care_timeline.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
