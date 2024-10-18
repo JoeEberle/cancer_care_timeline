@@ -32,7 +32,7 @@ For example, a "de novo" mutation refers to a new genetic mutation that arises s
   19. **T19** - Time from T1 to Inpatient Hospitalization 
   20. **T20** - Time from T1 to ED / Urgent Care Event 
  <br>
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
