@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Cancer Care Timeline - Analyzing each patients temporal pathway through their cancer treatment and survivorship.
-Analyzing each patients temporal pathway through their cancer treatment and survivorship.
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Cancer Care Timeline - Analyzing each patients temporal pathway through their cancer treatment and survivorship.![Image image_filename](code.png)
 ## Solution Overview: 
 
 **Survival time analysis**, also known as survival analysis or time-to-event analysis, is a statistical method used to analyze the time until an event of interest occurs, such as death, disease recurrence, or treatment failure. In healthcare, survival time analysis is a valuable tool for understanding the prognosis of patients, evaluating the effectiveness of treatments, and identifying factors that influence patient outcomes. By accounting for censored data and modeling time-dependent variables, survival time analysis provides insights into the natural history of diseases, aiding clinicians in making informed decisions about patient care and treatment strategies.
@@ -39,9 +32,7 @@ For example, a "de novo" mutation refers to a new genetic mutation that arises s
   19. **T19** - Time from T1 to Inpatient Hospitalization 
   20. **T20** - Time from T1 to ED / Urgent Care Event 
  <br>
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Cancer Care Timeline** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -56,6 +47,9 @@ To get started with the **Cancer Care Timeline** solution repository, follow the
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -65,13 +59,11 @@ To get started with the **Cancer Care Timeline** solution repository, follow the
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](cancer_care_journey.png)  <br>![additional_image](cancer_care_timeline.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
