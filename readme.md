@@ -4,20 +4,7 @@
 
 ## Analyzing each patients temporal pathway through their cancer treatment and survivorship.
 
-    
-# Table of Contents
-
-- [Solution Overview](#Solution-Overview)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Notebook Features](#notebook-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
-![Image image_filename](code.png)
+    ![Image image_filename](code.png)
 ## Solution Overview: 
 
 **Survival time analysis**, also known as survival analysis or time-to-event analysis, is a statistical method used to analyze the time until an event of interest occurs, such as death, disease recurrence, or treatment failure. In healthcare, survival time analysis is a valuable tool for understanding the prognosis of patients, evaluating the effectiveness of treatments, and identifying factors that influence patient outcomes. By accounting for censored data and modeling time-dependent variables, survival time analysis provides insights into the natural history of diseases, aiding clinicians in making informed decisions about patient care and treatment strategies.
@@ -62,6 +49,15 @@ To get started with the **Cancer Care Timeline** solution repository, follow the
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
     
+## Solution Features
+
+- Easy to understand and use  
+- Easily Configurable 
+- Quickly start your project with pre-built templates
+- Its Fast and Automated
+- Saves You Time 
+
+
 ## Code Features
 
 These features are designed to provide everything you need for **Cancer Care Timeline** 
