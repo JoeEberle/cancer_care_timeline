@@ -4,7 +4,25 @@
 
 ## Analyzing each patients temporal pathway through their cancer treatment and survivorship.
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 ## Solution Overview: 
 
 **Survival time analysis**, also known as survival analysis or time-to-event analysis, is a statistical method used to analyze the time until an event of interest occurs, such as death, disease recurrence, or treatment failure. In healthcare, survival time analysis is a valuable tool for understanding the prognosis of patients, evaluating the effectiveness of treatments, and identifying factors that influence patient outcomes. By accounting for censored data and modeling time-dependent variables, survival time analysis provides insights into the natural history of diseases, aiding clinicians in making informed decisions about patient care and treatment strategies.
@@ -38,7 +56,13 @@ For example, a "de novo" mutation refers to a new genetic mutation that arises s
   19. **T19** - Time from T1 to Inpatient Hospitalization 
   20. **T20** - Time from T1 to ED / Urgent Care Event 
  <br>
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
