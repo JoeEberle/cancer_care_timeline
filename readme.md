@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Cancer Care Timeline 
-    ## Analyzing each patients temporal pathway through their cancer treatment and survivorship.
+    
+# Cancer Care Timeline 
+
+## Analyzing each patients temporal pathway through their cancer treatment and survivorship.
+
     ![Image image_filename](code.png)
 ## Solution Overview: 
 
@@ -55,9 +58,9 @@ To get started with the **Cancer Care Timeline** solution repository, follow the
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Cancer Care Timeline** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -67,6 +70,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](cancer_care_journey.png)  <br>![additional_image](cancer_care_timeline.png)  <br>
