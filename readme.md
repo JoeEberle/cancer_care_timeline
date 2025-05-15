@@ -81,13 +81,3 @@ To get started with the **Cancer Care Timeline** solution repository, follow the
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](cancer_care_journey.png)  <br>![additional_image](cancer_care_timeline.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
